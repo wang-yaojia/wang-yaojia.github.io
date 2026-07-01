@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yaojia Wang"
 title_separator          : "-"
 name                     : &name "Yaojia Wang"
-description              : &description "Personal website of Yaojia Wang, focused on EDA, computer architecture, and hardware acceleration"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Personal website of Yaojia Wang, focused on EDA, FPGA mapping, and digital IC design"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://wang-yaojia.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.JPG"
   name             : "Yaojia Wang"
   pronouns         : # example: "she/her"  
-  bio              : "EDA & computer architecture<br>Incoming Ph.D. student"
+  bio              : "EDA & FPGA design automation<br>Incoming Ph.D. student"
   location         : "Shanghai, China"
   employer         : "Fudan University"
   uri              : # URL

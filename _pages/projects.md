@@ -1,11 +1,11 @@
 ---
-layout: single
+layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
 
-These projects cover high-level synthesis, processor design, and satellite-network systems software.
+These projects cover high-level synthesis, course-based RTL design, and satellite-network systems software.
 
 ## Selected Projects
 
@@ -17,7 +17,7 @@ These projects cover high-level synthesis, processor design, and satellite-netwo
 - Worked on control/data-flow graph construction, resource-aware scheduling, register allocation, and automated testbench generation.
 - Authored the README, I/O specifications, and project report.
 
-**RISC-V Multicycle CPU Design and Verification**  
+**RISC-V Multicycle CPU Design and Verification (Course Project)**  
 2024.11
 <!-- designed and verified a 32-bit RISC-V multicycle CPU in Verilog. -->
 - Implemented the controller, datapath, and unified instruction/data memory interface.

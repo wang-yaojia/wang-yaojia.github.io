@@ -10,8 +10,11 @@
   }
 
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+    width: 78.813559322%;
+    float: none;
+    margin-left: 21.186440678%;
+    margin-right: 0;
+    padding-left: 0;
   }
 
   a {

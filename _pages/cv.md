@@ -21,7 +21,7 @@ redirect_from:
 
 ## Research Interests
 
-* Electronic design automation, computer architecture, high-performance and heterogeneous computing, and AI hardware acceleration
+* Electronic design automation, FPGA design automation, digital integrated-circuit design, and resource-constrained optimization
 
 ## Academic Record
 
@@ -40,16 +40,16 @@ redirect_from:
 
 * **LLVM IR-based High-level Synthesis**, 2024.03 - 2024.05  
   Designed the workflow from LLVM IR parsing to Verilog and waveform generation; worked on CDFG construction, resource-aware scheduling, register allocation, automation scripts, and testbench generation. [GitHub repository](https://github.com/wang-yaojia/High-Level-Synthesis.git)
-* **RISC-V Multicycle CPU Design and Verification**, 2024.11  
-  Designed and verified a 32-bit Verilog multicycle CPU with controller, datapath, memory interface, instruction support, and waveform-based debugging.
+* **RISC-V Multicycle CPU Design and Verification**, course project, 2024.11  
+  Designed and verified a 32-bit Verilog multicycle CPU as a course project, including controller, datapath, memory interface, instruction support, and waveform-based debugging.
 * **Fudan Institute for Spatial Internet**, undergraduate intern, 2024.09 - 2025.06  
   Worked on the Plotinus satellite-network digital twin system, including Node.js topology visualization, API integration, dashboard development, and topology configuration tools.
 
 ## Technical Skills
 
 * **Programming and engineering:** C/C++, Python, Verilog, Shell, Linux, Git, Makefile; basic JavaScript/Node.js
-* **Digital systems and EDA:** RTL design, FPGA/EDA workflows, CPU datapath and control logic, simulation, Yosys/ABC, Vivado
-* **Architecture and acceleration:** computer architecture fundamentals, resource-aware optimization, and ongoing work in CUDA/GPU performance analysis
+* **Digital systems and EDA:** RTL design, FPGA/EDA workflows, logic synthesis, resource-aware optimization, simulation, Yosys/ABC, Vivado
+* **Course project experience:** basic CPU datapath and control logic design
 * **AI and ML tools:** Transformer/LLM fundamentals, prompt engineering, RAG/vector retrieval, PyTorch/Transformers/API-based experiments
 * **Research practice:** benchmark automation, result analysis, ablation studies, manuscript writing, and technical presentations
 

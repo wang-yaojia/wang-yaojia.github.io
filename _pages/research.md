@@ -1,17 +1,17 @@
 ---
-layout: single
+layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-My research interests are mainly in EDA, computer architecture, and optimization for computing systems.
+My research interests are mainly in EDA, FPGA design automation, and optimization methods for digital systems.
 
 ## Research Interests
 
 - Electronic design automation for FPGA and digital systems
-- Computer architecture, heterogeneous computing, and hardware acceleration
-- Optimization methods for computing and communication systems
+- FPGA mapping, logic synthesis, and resource-aware implementation
+- Graph algorithms and optimization methods for computing and communication systems
 
 ## Selected Research
 
