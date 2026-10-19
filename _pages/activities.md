@@ -39,7 +39,7 @@ Volunteer Teacher
 ## Admissions Outreach
 
 **Fudan University Guangdong Admissions Team**  
-2023.06 - 2024.07  
+2023.06 - 2025.07<br>
 Core Member, Shenzhen-Dongguan Group
 
 - Supported outreach to prospective students and families through advising sessions, high-school visits, and online Q&A groups.
@@ -48,7 +48,7 @@ Core Member, Shenzhen-Dongguan Group
 ## Class Activities
 
 **Natural Science Experimental Class 5 and 2022 Microelectronics Class**  
-2022.09 - Present  
+2022.09 - 2024.07<br>
 Sports Commissioner
 
 - Shared sports-related notices and helped classmates navigate course and competition-related issues.

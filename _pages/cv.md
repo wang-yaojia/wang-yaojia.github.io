@@ -16,7 +16,7 @@ redirect_from:
 ## Education
 
 * **Fudan University**, B.Eng. in Microelectronics Science and Engineering, 2022.09 - 2026.06
-* **Fudan University**, admitted to the Ph.D. program in Integrated Circuit Science and Engineering
+* **Fudan University**, Ph.D. student in Integrated Circuit Science and Engineering, 2026.09 - Present
 * **University of California, Santa Barbara**, exchange student in Electrical Engineering, 2024.09 - 2024.12
 
 ## Research Interests
@@ -31,8 +31,8 @@ redirect_from:
 
 ## Research Experience
 
-* **A Frontier-Based Framework for Joint Covering and Pairing of Dual-Output LUTs in FPGA Mapping**, 2025.09 - 2026.04  
-  First author. Submitted to IWLS 2026, selected as a Best Student Paper Candidate, and under review at ICCAD 2026.
+* **Frontier-Based Joint Covering for Dual-Output LUT Mapping**, 2025.09 - 2026.04<br>
+  First author. Presented at IWLS 2026, selected as a Best Student Paper Candidate, and under review at ISFPGA 2027.
 * **Stabilizing and Optimizing Inter-Shell Routing in LEO Networks with Integrated Routing Cost**, 2024.12 - 2025.04  
   First author. Published at IEEE/CIC ICCC 2025 Workshops.
 
@@ -65,5 +65,5 @@ redirect_from:
 
 ## Contact
 
-* Email: [yaojiawang22@m.fudan.edu.cn](mailto:yaojiawang22@m.fudan.edu.cn)
+* Email: [yjwang26@m.fudan.edu.cn](mailto:yjwang26@m.fudan.edu.cn)
 * GitHub: [wang-yaojia](https://github.com/wang-yaojia)

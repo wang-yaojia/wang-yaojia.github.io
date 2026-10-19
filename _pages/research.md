@@ -15,10 +15,10 @@ My research interests are mainly in EDA, FPGA design automation, and optimizatio
 
 ## Selected Research
 
-**A Frontier-Based Framework for Joint Covering and Pairing of Dual-Output LUTs in FPGA Mapping**  
+**Frontier-Based Joint Covering for Dual-Output LUT Mapping**<br>
 2025.09 - 2026.04
 
-First-author work submitted to the [International Workshop on Logic & Synthesis (IWLS) 2026](https://www.iwls.org/iwls2026/), selected as a Best Student Paper Candidate, with ICCAD 2026 under review.
+First-author work presented at the [International Workshop on Logic & Synthesis (IWLS) 2026](https://www.iwls.org/iwls2026/), selected as a Best Student Paper Candidate. A manuscript on this work is currently under review at ISFPGA 2027.
 
 - Proposed a frontier-level optimization framework for dual-output LUT mapping to improve FPGA resource utilization.
 - Built a Yosys/ABC-based implementation and automated benchmark evaluation flow.
