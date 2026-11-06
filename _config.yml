@@ -23,7 +23,7 @@ repository               : "wang-yaojia/wang-yaojia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile_milktea.JPG"
   name             : "Yaojia Wang"
   pronouns         : # example: "she/her"  
   bio              : "EDA & FPGA design automation<br>Ph.D. student"
